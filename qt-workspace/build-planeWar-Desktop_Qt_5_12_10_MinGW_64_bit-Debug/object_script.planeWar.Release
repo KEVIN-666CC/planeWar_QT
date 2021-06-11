@@ -1,0 +1,15 @@
+release/bomb.o
+release/bullet.o
+release/dickmenu.o
+release/enemyplane.o
+release/heroplane.o
+release/main.o
+release/mainscene.o
+release/map.o
+release/mythread.o
+release/startgame.o
+release/qrc_res.o
+release/moc_dickmenu.o
+release/moc_mainscene.o
+release/moc_mythread.o
+release/moc_startgame.o
