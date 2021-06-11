@@ -5,6 +5,7 @@
 
 class map
 {
+
     //Q_OBJECT
 public:
     map();

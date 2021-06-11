@@ -1,5 +1,6 @@
 #include "bomb.h"
 #include<QDebug>
+
 Bomb::Bomb()
 {
     //将所有爆炸pixmap放入数组中

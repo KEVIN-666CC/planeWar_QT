@@ -3,6 +3,7 @@
 
 bullet::bullet()
 {
+
     //加载资源
     m_bullet.load(bullet_model);
 
@@ -18,10 +19,12 @@ bullet::bullet()
     bullet_rect.setWidth(m_bullet.width());
     bullet_rect.setHeight(m_bullet.height());
     bullet_rect.moveTo(bullet_x,bullet_y);
+
 }
 
 void bullet::updateBulletPosition()
 {
+
     //空闲状态下的子弹无需计算坐标
     if(bullet_free)
     {
@@ -34,5 +37,6 @@ void bullet::updateBulletPosition()
     {
         bullet_free=true;
     }
+
 }
 

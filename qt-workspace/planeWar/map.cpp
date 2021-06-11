@@ -2,6 +2,7 @@
 #include"config.h"
 #include"startgame.h"
 #include<QDebug>
+
 map::map()
 {
     //初始化加载地图对象

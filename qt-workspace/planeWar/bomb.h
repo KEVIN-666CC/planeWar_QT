@@ -4,7 +4,6 @@
 #include<QPixmap>
 #include"config.h"
 
-
 class Bomb
 {
 public:
