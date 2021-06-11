@@ -6,6 +6,7 @@
 
 int main(int argc, char *argv[])
 {
+
     QApplication a(argc, argv);
 
     //注册外部二进制资源文件
@@ -15,4 +16,5 @@ int main(int argc, char *argv[])
     w.show();
 
     return a.exec();
+
 }

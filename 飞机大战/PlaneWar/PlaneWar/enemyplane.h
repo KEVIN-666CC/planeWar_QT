@@ -5,6 +5,7 @@
 #include <QPixmap>
 
 class EnemyPlane
+
 {
 public:
     EnemyPlane();

@@ -2,6 +2,7 @@
 #include "config.h"
 
 EnemyPlane::EnemyPlane()
+
 {
     //敌机资源加载
     m_enemy.load(ENEMY_PATH);

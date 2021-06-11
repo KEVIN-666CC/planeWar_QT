@@ -4,6 +4,7 @@
 #include <QPixmap>
 
 class Bullet
+
 {
 public:
     Bullet();

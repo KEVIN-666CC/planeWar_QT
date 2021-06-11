@@ -3,6 +3,7 @@
 
 HeroPlane::HeroPlane()
 {
+
     //加载飞机图片资源
     m_Plane.load(HERO_PATH);
 
@@ -17,9 +18,11 @@ HeroPlane::HeroPlane()
 
     //初始化间隔记录变量
     m_recorder = 0;
+
 }
 
 void HeroPlane::setPosition(int x, int y)
+
 {
     m_X = x;
     m_Y = y;
@@ -28,6 +31,7 @@ void HeroPlane::setPosition(int x, int y)
 
 
 void HeroPlane::shoot()
+
 {
     //累加事件间隔记录的变量
     m_recorder++;

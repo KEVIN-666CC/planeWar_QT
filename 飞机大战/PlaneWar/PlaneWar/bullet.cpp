@@ -2,6 +2,7 @@
 
 Bullet::Bullet()
 {
+
     //加载自动资源
     m_Bullet.load(BULLET_PATH);
 
@@ -19,10 +20,12 @@ Bullet::Bullet()
     m_Rect.setWidth(m_Bullet.width());
     m_Rect.setHeight(m_Bullet.height());
     m_Rect.moveTo(m_X,m_Y);
+
 }
 
 void Bullet::updatePosition()
 {
+
     //如果子弹是空闲状态，不需要计算坐标
     if(m_Free)
     {

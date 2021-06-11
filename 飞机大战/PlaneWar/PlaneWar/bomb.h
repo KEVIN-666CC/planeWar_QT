@@ -6,6 +6,7 @@
 #include <QVector>
 
 class Bomb
+
 {
 public:
     Bomb();
