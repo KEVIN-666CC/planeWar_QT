@@ -5,6 +5,7 @@
 
 
 class bullet
+
 {
 public:
     bullet();
