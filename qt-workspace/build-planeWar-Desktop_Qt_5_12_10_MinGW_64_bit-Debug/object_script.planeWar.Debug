@@ -1,0 +1,15 @@
+debug/bomb.o
+debug/bullet.o
+debug/dickmenu.o
+debug/enemyplane.o
+debug/heroplane.o
+debug/main.o
+debug/mainscene.o
+debug/map.o
+debug/mythread.o
+debug/startgame.o
+debug/qrc_res.o
+debug/moc_dickmenu.o
+debug/moc_mainscene.o
+debug/moc_mythread.o
+debug/moc_startgame.o

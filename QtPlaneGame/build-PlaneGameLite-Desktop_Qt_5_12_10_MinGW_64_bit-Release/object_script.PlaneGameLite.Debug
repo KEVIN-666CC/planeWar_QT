@@ -1,0 +1,14 @@
+debug/bomb.o
+debug/bullet.o
+debug/endgame.o
+debug/enemyplane.o
+debug/helpwidget.o
+debug/heroplane.o
+debug/main.o
+debug/mainscene.o
+debug/map.o
+debug/widget.o
+debug/moc_endgame.o
+debug/moc_helpwidget.o
+debug/moc_mainscene.o
+debug/moc_widget.o

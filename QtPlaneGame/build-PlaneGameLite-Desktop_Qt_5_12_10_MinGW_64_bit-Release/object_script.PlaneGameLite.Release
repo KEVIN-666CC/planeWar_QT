@@ -1,0 +1,14 @@
+release/bomb.o
+release/bullet.o
+release/endgame.o
+release/enemyplane.o
+release/helpwidget.o
+release/heroplane.o
+release/main.o
+release/mainscene.o
+release/map.o
+release/widget.o
+release/moc_endgame.o
+release/moc_helpwidget.o
+release/moc_mainscene.o
+release/moc_widget.o
